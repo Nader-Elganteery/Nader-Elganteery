@@ -1,24 +1,99 @@
-<h1 align="center">Hi 👋, I'm Nader Elganteery</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4706mhha2e9kzx2d31fd3ga64z7v8ph0b9eueb3qc1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+# 🌀Nader Elganteery <a href="https://www.linkedin.com/in/nader-elganteery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nader" height="20" width="20" /></a> <a href="https://stackoverflow.com/users/23190194/nader-elganteery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nader" height="20" width="20" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nader-elganteery&label=Profile%20views&color=0e75b6&style=flat" alt="nader-elganteery" /> </p>
-
-- 🌱 I’m currently learning **Advanced topics about .Net Core**
-
-- 💬 Ask me about **.Net Core**
-
-- 📫 How to reach me **naderelganteery222@gmail.com**
-
-<p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=18A8F7&center=true&vCenter=true&width=435&lines=Back-End+Developer+%F0%9F%8C%90" alt="Typing SVG" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nader-elganteery&show_icons=true&locale=en&layout=compact" alt="nader-elganteery" /></p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Nader-Elganteery&label=Profile%20views&color=0e75b6&style=flat" alt="nader" /> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nader-elganteery&show_icons=true&locale=en" alt="nader-elganteery" /></p>
+👋 Hey there! Welcome to my GitHub profile! I'm Nader Elganteery, a passionate backend developer diving deep into the realms of .NET Core and beyond. With a keen eye for optimizing performance and ensuring seamless functionality, I thrive on crafting robust solutions that power the digital world.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nader-elganteery&" alt="nader-elganteery" /></p>
+🛠️ Currently, my journey involves delving into the exciting world of DevOps. As technology evolves, so do I, constantly expanding my skill set to embrace the latest tools and practices in the realm of software development and operations. From continuous integration to deployment pipelines, I'm eager to streamline processes and enhance collaboration across teams.
 
+🚀 Join me as I explore the intersections of development and operations, leveraging automation and infrastructure as code to drive     efficiency and reliability in every project I undertake. Whether it's building scalable APIs or orchestrating containerized applications, I'm always up for the challenge of pushing boundaries and delivering impactful solutions.
+
+💬 Let's connect and collaborate! Whether you're a fellow developer, DevOps enthusiast, or simply curious about technology, feel free to reach out. Together, we can harness the power of innovation to shape a brighter digital future.
+
+<p align="left">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nader-Elganteery?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Nader-Elganteery?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nader-Elganteery?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+          <a href="https://twitter.com/NaderElganteery" target="blank"><img src="https://img.shields.io/twitter/follow/NaderElganteery?logo=x&style=for-the-badge" alt="NaderElganteery" /></a>
+<a href="mailto:naderelganteery222@gmail.com" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/twitter/follow/Nader-Elganteery?style=for-the-badge&logo=Gmail&logoColor=white&label=Nader%20Elganteery&labelColor=FF4F4B&color=FF6865"></a>
+
+
+   </p>
+   <p align="left">
+
+---
+
+#
+
+<details open>
+    <summary><h2>💻 Languages & Tools:</h2></summary>
+    <p align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width=40px alt="C#" title="C#"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" width=40px alt=".Net Core" title=".Net Core"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="40" alt="Sql server" title="Sql server">
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-wlm3keth.png" width="40" alt="postgresql" title="postgresql">
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width=40px alt="HTML" title="HTML"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width=40px alt="CSS" title="CSS"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width=40px alt="Javascript" title="Javascript"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://static-00.iconduck.com/assets.00/bootstrap-icon-512x512-f3dudm5z.png" width=40px alt="Bootstrap"   title="Bootstrap"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=40px alt="Linux" title="Linux"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width=40px alt="Docker" title="Docker"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://static-00.iconduck.com/assets.00/jenkins-original-icon-371x512-8gujah0v.png" width=40px alt="Jenkins" title="Jenkins"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" width=40px alt="Azure" title="Azure"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-512x499-3mjeet3c.png" width=40px alt="Kubernetes" title="Kubernetes"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png" width=40px alt="Terraform" title="Terraform"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width=40px alt="Python" title="Python"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png" width=40px alt="Notion" title="Notion"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" width=40px alt="Postman" title="Postman"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" width=40px alt="Slack" title="Slack"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" width=40px alt="Git" title="Git"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=40px alt="GitHub" title="GitHub"/>
+    </p>
+</details>
+
+#
+
+---
+
+<details open>
+<summary><h2>📊 GitHub Stats:</h2></summary>
+<table border="0" align="center">
+   <tr border="0">
+         <td width="50%" align="center">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nader-Elganteery&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
+            <br><br>
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nader-Elganteery&theme=highcontrast&hide_border=true"/>
+         </td>
+         <td width="50%" align="center">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nader-Elganteery&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+         </td>
+   </tr>
+</table>
+</details>
