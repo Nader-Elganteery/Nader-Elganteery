@@ -89,7 +89,6 @@
          <td width="50%" align="center">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nader-Elganteery&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
             <br><br>
-            <img src="https://streak-stats.demolab.com?user=nader-elganteery" alt="GitHub Streak" />
          </td>
          <td width="50%" align="center">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nader-Elganteery&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
@@ -97,3 +96,4 @@
    </tr>
 </table>
 </details>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
